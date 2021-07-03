@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### 🔭 I’m currently working on something 
+-🔭 I’m currently working on something 
 - 🌱 I’m currently learning basic coding
 - 👯 I’m looking to collaborate on Michael Rosen 
 - 🤔 I’m looking for help with nik naks 
