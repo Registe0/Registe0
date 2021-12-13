@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
--🔭 I’m currently working on something 
+-🔭 I’m currently working on website 
 - 🌱 I’m currently learning basic coding
 - 👯 I’m looking to collaborate on Michael Rosen 
 - 🤔 I’m looking for help with nik naks 
 - 💬 Ask me about plums
-- 📫 How to reach me: Unknown 
+- 📫 How to reach me: xyz.358@yandex.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact:your'e
